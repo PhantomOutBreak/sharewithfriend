@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670775742773",
+    "project_id": "my-cloud-firestore-flutt-890e8",
+    "storage_bucket": "my-cloud-firestore-flutt-890e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670775742773:android:13dba225b7ff36bcdb3c7c",
+        "android_client_info": {
+          "package_name": "com.example.my_firebase_cloud_firestore_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aJHqsWY6fm4Eb2AY6UNXDDlxNK08EPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
